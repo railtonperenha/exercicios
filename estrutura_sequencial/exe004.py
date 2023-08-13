@@ -1,3 +1,5 @@
+# Faça um Programa que peça as 4 notas bimestrais e mostre a média
+
 prova1 = input('Primeira Prova: ')
 prova2 = input('Segunda Prova: ')
 prova3 = input('Terceira Prova: ')
