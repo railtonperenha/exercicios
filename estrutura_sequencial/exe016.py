@@ -3,8 +3,8 @@
 metros = input('Metros para serem pintados: ')
 
 try:
-    metros_float = float(metros)
-    litros = metros_float / 3
+    metros = float(metros)
+    litros = metros / 3
     lata = litros / 18
     lata = int(lata)
     valor = 80.00
